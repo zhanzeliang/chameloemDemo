@@ -1,0 +1,3 @@
+<view class=" cml-base cml-view">
+  <i-button type="error" long="true" class=" cml-view cml-i-button">{{name}}</i-button>
+</view>

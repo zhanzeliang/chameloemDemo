@@ -1,0 +1,10 @@
+<cml-buildin-page title="chameleon" class=" cml-base cml-page">
+    <cml-buildin-scroller height="{{-1}}" class=" cml-base cml-scroller">
+      <view class="scroller-wrap  cml-base cml-view">
+        <demo-com title="{{title}}" image-src="{{chameleonSrc}}" class=" cml-view cml-demo-com"></demo-com>
+      </view>
+      <view class=" cml-base cml-view">
+        <i-button class=" cml-view cml-i-button"></i-button>
+      </view>
+    </cml-buildin-scroller>
+</cml-buildin-page>
